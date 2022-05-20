@@ -1,9 +1,10 @@
 import React from 'react';
+import Home from './pages/home/Home';
 
 function App() {
   return (
-    <div className='App'>
-      <header className='App-header'>Smart Dashboard</header>
+    <div>
+      <Home />
     </div>
   );
 }
